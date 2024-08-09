@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But don't ignore these files and directories
+!.gitignore
+!README.md
+!wp-content/
+!wp-content/plugins/
+!wp-content/plugins/wp-hosting-directory/
+!wp-content/plugins/wp-hosting-directory/**
+
+
