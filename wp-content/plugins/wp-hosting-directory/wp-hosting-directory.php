@@ -12,8 +12,8 @@
  * Plugin URI:        https://make.wordpress.org/hosting/
  * Description:       A plugin to manage and display a directory of WordPress hosting providers.
  * Version:           1.0.1
- * Requires at least: 5.2
- * Requires PHP:      7.2
+ * Requires at least: 6.0
+ * Requires PHP:      8.1
  * Author:            Hosting Team
  * Author URI:        https://make.wordpress.org/hosting/
  * Text Domain:       wp-hosting-directory
